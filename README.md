@@ -18,3 +18,7 @@ Ingeniero en automatización e integración de sistemas industriales, con experi
 ![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Node-RED](https://img.shields.io/badge/Node--RED-Flow%20Based%20Dev-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+
+#Contáctame
+- 💼 [LinkedIn](https://www.linkedin.com/in/asaf-alan-osuna-silva-b46332195/)
+- 💻 [GitHub](https://github.com/AsafOsuna)
