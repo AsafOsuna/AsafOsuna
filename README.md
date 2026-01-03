@@ -1,47 +1,59 @@
-# Industrial System Integrations
+# 👋 Hola, soy Asaf Osuna
 
 ![Solution Architect](https://img.shields.io/badge/Role-Solution%20Architect-0A66C2)
 ![OT-IT](https://img.shields.io/badge/OT–IT-Convergence-1F8ACB)
-![Industry 4.0](https://img.shields.io/badge/Industry-4.0-4CAF50)
-![Automation](https://img.shields.io/badge/Domain-Industrial%20Automation-FF9800)
+![Industrial Automation](https://img.shields.io/badge/Domain-Industrial%20Automation-FF9800)
+![Industry 4.0](https://img.shields.io/badge/Focus-Industry%204.0-4CAF50)
+![Mexico](https://img.shields.io/badge/Location-Mexico-009688)
 
-👋 Soy **Asaf Osuna**, **Ingeniero de Automatización e Integración de Sistemas Industriales**, con un enfoque de **Solution Architect**, especializado en el diseño de **arquitecturas industriales escalables**, **convergencia OT–IT** y **digitalización de procesos productivos**.
+Soy **Ingeniero de Automatización e Integración de Sistemas Industriales**, con un enfoque de **Solution Architect**, especializado en **convergencia OT–IT**, **arquitecturas industriales** y **digitalización de entornos productivos**.
 
-Este repositorio funciona como **portafolio técnico y repositorio de conocimiento**, donde documento soluciones, proyectos y pruebas de concepto orientadas a la **integración de sistemas industriales de extremo a extremo**.
+Diseño soluciones que conectan el **mundo físico de la industria** con **sistemas de información**, asegurando **escalabilidad, confiabilidad y valor de negocio**.
 
 ---
 
-## 🧠 Enfoque como Solution Architect
+## 🧠 Mi Enfoque Profesional
 
-Mi rol va más allá de la programación o la puesta en marcha. Me enfoco en:
+Trabajo en el punto donde convergen:
 
-- Diseñar **arquitecturas técnicas alineadas a objetivos de negocio**
-- Traducir necesidades operativas en **soluciones técnicas viables**
-- Integrar múltiples tecnologías y niveles del sistema industrial
-- Evaluar riesgos, escalabilidad, mantenibilidad y seguridad
+- Operaciones industriales
+- Arquitectura de sistemas
+- Datos y toma de decisiones
+- Tecnología aplicada al negocio
 
-La integración no se trata solo de conectar sistemas, sino de **construir soluciones coherentes, sostenibles y orientadas a la toma de decisiones**.
+No me limito a programar o integrar equipos:  
+👉 **diseño soluciones completas**, considerando arquitectura, riesgos, mantenibilidad y objetivos operativos.
 
 ---
 
 ## 🏭 Especialidad: Integración de Sistemas Industriales
 
-Trabajo en la intersección de:
+Tengo experiencia integrando sistemas a lo largo de todo el stack industrial:
 
-- **Nivel de campo**  
-  Sensores, actuadores, variadores de frecuencia y dispositivos industriales
+- **Nivel de Campo**  
+  Sensores, actuadores, variadores de frecuencia
 
-- **Nivel de control**  
-  PLCs, PACs, control de procesos y lógica industrial
+- **Nivel de Control**  
+  PLCs, lógica industrial, control de procesos
 
-- **Nivel de supervisión**  
-  SCADA, HMI, alarmas, eventos e historización
+- **Nivel de Supervisión**  
+  SCADA, HMI, alarmas, eventos, historización
 
-- **Nivel de manufactura**  
-  MES, trazabilidad, producción, calidad y mantenimiento
+- **Nivel de Manufactura**  
+  MES, trazabilidad, producción, mantenimiento
 
 - **Nivel IT / Enterprise**  
   Bases de datos, APIs, analítica, integración con sistemas corporativos
+
+---
+
+## 🧩 Qué Tipo de Problemas Resuelvo
+
+- Integrar sistemas heredados con nuevas tecnologías
+- Conectar OT con IT de forma segura y escalable
+- Diseñar arquitecturas industriales robustas
+- Habilitar visibilidad y uso de datos industriales
+- Reducir fricción entre operación, mantenimiento e ingeniería
 
 ---
 
@@ -49,7 +61,7 @@ Trabajo en la intersección de:
 
 ### Automatización & Control
 ![PLC](https://img.shields.io/badge/PLC-IEC%2061131--3-blue)
-![SCADA](https://img.shields.io/badge/SCADA-Systems-blue)
+![SCADA](https://img.shields.io/badge/SCADA-Industrial%20Systems-blue)
 ![Drives](https://img.shields.io/badge/Drives-Industrial-orange)
 
 ### Comunicaciones Industriales
@@ -57,43 +69,48 @@ Trabajo en la intersección de:
 ![EtherNet/IP](https://img.shields.io/badge/Protocol-EtherNet%2FIP-red)
 ![OPC UA](https://img.shields.io/badge/Protocol-OPC%20UA-3F51B5)
 
-### OT – IT & Datos
+### OT – IT & Arquitectura
 ![SQL](https://img.shields.io/badge/Database-SQL-336791)
-![APIs](https://img.shields.io/badge/API-REST-009688)
+![REST](https://img.shields.io/badge/API-REST-009688)
 ![UNS](https://img.shields.io/badge/Architecture-UNS-673AB7)
 
-### Digitalización & Industria 4.0
+### Industria 4.0 & Datos
 ![IIoT](https://img.shields.io/badge/IIoT-Industrial%20IoT-607D8B)
 ![Data](https://img.shields.io/badge/Data-Industrial%20Data-795548)
 
 ---
 
-## 📁 Contenido del Repositorio
+## 📁 Repositorios Destacados
 
-En este repositorio encontrarás:
+- 🏗️ **Industrial-System-Integrations**  
+  Arquitecturas, proyectos y PoC de integración OT–IT
 
-- 📂 **Proyectos de integración industrial**
-- 🧩 **Arquitecturas y diagramas de solución**
-- 🧪 **Pruebas de concepto (PoC)**
-- 🛠️ **Scripts, configuraciones y utilidades**
-- 📄 **Documentación técnica y decisiones de diseño**
+- 🤖 **Automation & Control Projects**  
+  Lógica industrial, comunicación y control
 
-Cada proyecto está pensado para reflejar **escenarios reales de la industria**, priorizando claridad, trazabilidad y buenas prácticas.
+- 📊 **Industrial Data & Digitalization**  
+  Datos, historización, analítica y digitalización
 
----
-
-## 🎯 Objetivo del Repositorio
-
-- Presentar un perfil técnico orientado a **Solution Architect / OT–IT**
-- Demostrar capacidad de diseño e integración de sistemas complejos
-- Construir una base de conocimiento reutilizable
-- Evolucionar junto con nuevas tecnologías y enfoques industriales
+_(Los repositorios evolucionan constantemente conforme se desarrollan nuevas soluciones.)_
 
 ---
 
-#Contáctame
+## 🎯 Objetivo Profesional
+
+Consolidarme como **Solution Architect en entornos industriales**, liderando el diseño de soluciones que conecten **operación, tecnología y negocio**, y que sirvan como base para **fábricas más inteligentes, eficientes y resilientes**.
+
+---
+
+## 📫 Contacto Profesional
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/asaf-alan-osuna-silva-b46332195/)
 - 💻 [GitHub](https://github.com/AsafOsuna)
+- 🌎 **Ubicación**: México 🇲🇽
 
-> _“Un buen Solution Architect no solo conecta sistemas,  
-conecta necesidades de negocio con soluciones técnicas.”_
+---
+
+> _“La verdadera arquitectura no conecta sistemas,  
+conecta decisiones con información confiable.”_
+
+> _“La verdadera arquitectura no conecta sistemas,  
+conecta decisiones con información confiable.”_
