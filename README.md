@@ -111,6 +111,3 @@ Consolidarme como **Solution Architect en entornos industriales**, liderando el 
 
 > _“La verdadera arquitectura no conecta sistemas,  
 conecta decisiones con información confiable.”_
-
-> _“La verdadera arquitectura no conecta sistemas,  
-conecta decisiones con información confiable.”_
