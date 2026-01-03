@@ -2,7 +2,7 @@
 Ingeniero en automatización e integración de sistemas industriales, con experiencia en proyectos de automatización, sistemas SCADA, convergencia OT/IT y digitalización de procesos. Busco integrarme a una organización donde pueda aportar en el diseño, implementación y mejora de soluciones tecnológicas estructuradas, con enfoque en proyectos, estabilidad operativa y crecimiento profesional, contribuyendo a la optimización de procesos productivos y a la toma de decisiones basada en datos.
 
 ## Skills
-![OT-IT](https://img.shields.io/badge/OT%E2%80%93IT-Integration-0A0A0A?style=for-the-badge)
+![OT-IT](https://img.shields.io/badge/OT%E2%80%93IT-Integration-0A0A0A?)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
