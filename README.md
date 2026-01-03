@@ -4,7 +4,7 @@ Ingeniero en automatización e integración de sistemas industriales, con experi
 ## Skills
 ![OT-IT](https://img.shields.io/badge/OT%E2%80%93IT-Integration-0A0A0A?)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
