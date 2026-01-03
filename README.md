@@ -1,24 +1,99 @@
-# Asaf Alan Osuna Silva
-Ingeniero en automatización e integración de sistemas industriales, con experiencia en proyectos de automatización, sistemas SCADA, convergencia OT/IT y digitalización de procesos. Busco integrarme a una organización donde pueda aportar en el diseño, implementación y mejora de soluciones tecnológicas estructuradas, con enfoque en proyectos, estabilidad operativa y crecimiento profesional, contribuyendo a la optimización de procesos productivos y a la toma de decisiones basada en datos.
+# Industrial System Integrations
 
-## Skills
-![OT-IT](https://img.shields.io/badge/OT%E2%80%93IT-Integration-0A0A0A?)
+![Solution Architect](https://img.shields.io/badge/Role-Solution%20Architect-0A66C2)
+![OT-IT](https://img.shields.io/badge/OT–IT-Convergence-1F8ACB)
+![Industry 4.0](https://img.shields.io/badge/Industry-4.0-4CAF50)
+![Automation](https://img.shields.io/badge/Domain-Industrial%20Automation-FF9800)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL-4479A1?logo=mysql&logoColor=white)
+👋 Soy **Asaf Osuna**, **Ingeniero de Automatización e Integración de Sistemas Industriales**, con un enfoque de **Solution Architect**, especializado en el diseño de **arquitecturas industriales escalables**, **convergencia OT–IT** y **digitalización de procesos productivos**.
 
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+Este repositorio funciona como **portafolio técnico y repositorio de conocimiento**, donde documento soluciones, proyectos y pruebas de concepto orientadas a la **integración de sistemas industriales de extremo a extremo**.
 
-![PowerBI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Power%20Query%20%7C%20Power%20Pivot-217346?logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-E97627?logo=tableau&logoColor=white)
+---
 
-![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?logo=linux&logoColor=black)
+## 🧠 Enfoque como Solution Architect
 
-![Node-RED](https://img.shields.io/badge/Node--RED-Flow%20Based%20Dev-8F0000?logo=nodered&logoColor=white)
+Mi rol va más allá de la programación o la puesta en marcha. Me enfoco en:
+
+- Diseñar **arquitecturas técnicas alineadas a objetivos de negocio**
+- Traducir necesidades operativas en **soluciones técnicas viables**
+- Integrar múltiples tecnologías y niveles del sistema industrial
+- Evaluar riesgos, escalabilidad, mantenibilidad y seguridad
+
+La integración no se trata solo de conectar sistemas, sino de **construir soluciones coherentes, sostenibles y orientadas a la toma de decisiones**.
+
+---
+
+## 🏭 Especialidad: Integración de Sistemas Industriales
+
+Trabajo en la intersección de:
+
+- **Nivel de campo**  
+  Sensores, actuadores, variadores de frecuencia y dispositivos industriales
+
+- **Nivel de control**  
+  PLCs, PACs, control de procesos y lógica industrial
+
+- **Nivel de supervisión**  
+  SCADA, HMI, alarmas, eventos e historización
+
+- **Nivel de manufactura**  
+  MES, trazabilidad, producción, calidad y mantenimiento
+
+- **Nivel IT / Enterprise**  
+  Bases de datos, APIs, analítica, integración con sistemas corporativos
+
+---
+
+## 🔧 Stack Tecnológico
+
+### Automatización & Control
+![PLC](https://img.shields.io/badge/PLC-IEC%2061131--3-blue)
+![SCADA](https://img.shields.io/badge/SCADA-Systems-blue)
+![Drives](https://img.shields.io/badge/Drives-Industrial-orange)
+
+### Comunicaciones Industriales
+![Modbus](https://img.shields.io/badge/Protocol-Modbus%20TCP-005A9C)
+![EtherNet/IP](https://img.shields.io/badge/Protocol-EtherNet%2FIP-red)
+![OPC UA](https://img.shields.io/badge/Protocol-OPC%20UA-3F51B5)
+
+### OT – IT & Datos
+![SQL](https://img.shields.io/badge/Database-SQL-336791)
+![APIs](https://img.shields.io/badge/API-REST-009688)
+![UNS](https://img.shields.io/badge/Architecture-UNS-673AB7)
+
+### Digitalización & Industria 4.0
+![IIoT](https://img.shields.io/badge/IIoT-Industrial%20IoT-607D8B)
+![Data](https://img.shields.io/badge/Data-Industrial%20Data-795548)
+
+---
+
+## 📁 Contenido del Repositorio
+
+En este repositorio encontrarás:
+
+- 📂 **Proyectos de integración industrial**
+- 🧩 **Arquitecturas y diagramas de solución**
+- 🧪 **Pruebas de concepto (PoC)**
+- 🛠️ **Scripts, configuraciones y utilidades**
+- 📄 **Documentación técnica y decisiones de diseño**
+
+Cada proyecto está pensado para reflejar **escenarios reales de la industria**, priorizando claridad, trazabilidad y buenas prácticas.
+
+---
+
+## 🎯 Objetivo del Repositorio
+
+- Presentar un perfil técnico orientado a **Solution Architect / OT–IT**
+- Demostrar capacidad de diseño e integración de sistemas complejos
+- Construir una base de conocimiento reutilizable
+- Evolucionar junto con nuevas tecnologías y enfoques industriales
+
+---
 
 #Contáctame
 - 💼 [LinkedIn](https://www.linkedin.com/in/asaf-alan-osuna-silva-b46332195/)
 - 💻 [GitHub](https://github.com/AsafOsuna)
+
+> _“Un buen Solution Architect no solo conecta sistemas,  
+conecta necesidades de negocio con soluciones técnicas.”_
